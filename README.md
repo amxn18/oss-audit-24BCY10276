@@ -38,11 +38,11 @@ oss-audit-24BCY10276/
 │   ├── script4_log_analyzer.sh
 │   └── script5_manifesto_generator.sh
 └── screenshots/
-    ├── script1_run.png
-    ├── script2_run.png
-    ├── script3_run.png
-    ├── script4_run.png
-    └── script5_run.png
+    ├── script1_system_identity.png
+    ├── script2_package_inspector.png
+    ├── script3_disk_auditor.png
+    ├── script4_log_analyzer.png
+    └── script5_manifesto_generator.png
 ```
 
 ---
