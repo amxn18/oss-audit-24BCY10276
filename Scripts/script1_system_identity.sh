@@ -5,7 +5,7 @@
 
 # Variables 
 STUDENT_NAME="Aman Kukreja"
-REG_NO="24BCE10148"
+REG_NO="24BCY10276"
 SOFTWARE_CHOICE="LibreOffice"
 
 # System Information 

@@ -30,6 +30,7 @@ In addition to the written audit, the project delivers five Bash shell scripts t
 oss-audit-24BCY10276/
 ├── README.md
 ├── Project_Report.pdf
+├── manifesto.txt
 ├── scripts/
 │   ├── script1_system_identity.sh
 │   ├── script2_package_inspector.sh
