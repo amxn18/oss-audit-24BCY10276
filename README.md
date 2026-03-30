@@ -239,11 +239,11 @@ sudo ./scripts/script4_log_analyzer.sh /var/log/messages
 
 The `screenshots/` directory holds execution screenshots confirming the successful run of each script:
 
-- `script1_run.png`
-- `script2_run.png`
-- `script3_run.png`
-- `script4_run.png`
-- `script5_run.png`
+- `script1_system_identity.png`
+- `script2_package_inspector.png`
+- `script3_disk_auditor.png`
+- `script4_log_analyzer.png`
+- `script5_manifesto_generator.png`
 
 ---
 
