@@ -2,6 +2,7 @@
 # Script 2: FOSS Package Inspector
 # Author: Aman Kukreja
 # Course: Open Source Software
+
 PACKAGE="libreoffice"
 
 echo "=============================================="

@@ -1,6 +1,7 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
 # Author: Aman Kukreja
+# Course: Open Source Software
 
 LOGFILE=$1
 KEYWORD=${2:-"error"}
