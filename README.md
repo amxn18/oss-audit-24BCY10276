@@ -1,7 +1,7 @@
 # Open Source Audit – LibreOffice on Fedora 43
 
-**Student Name:** Aman Kukreja  
-**Registration Number:** 24BCY10276  
+**Student Name:** Anuj Parashar  
+**Registration Number:** 24BCE10058  
 **Course:** Open Source Software  
 **Chosen Software:** LibreOffice
 
